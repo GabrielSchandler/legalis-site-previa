@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://legalis-estetica-premium.gmarquessch.chatgpt.site/sitemap.xml
